@@ -1,0 +1,26 @@
+{
+  "plants": [
+    {
+      "id": "8",
+      "name": "Portulaca ",
+      "image": "https://greenshipgardenus.com/wp-content/uploads/2025/02/unnamed-157.png",
+      "price": "19.75",
+      "soldOut": false
+    },
+    {
+      "id": "16d4",
+      "name": "Rose",
+      "image": "https://lazulihouse.co.ke/wp-content/uploads/2023/12/whatsapp-image-2023-01-25-at-124830.jpeg",
+      "price": "15.55",
+      "SoldOut": false,
+      "soldOut": true
+    },
+    {
+      "id": "e7d4",
+      "name": "Aloe",
+      "image": "https://prickleplants.co.uk/cdn/shop/articles/aloe_vera_3.jpg?v=1726489257",
+      "price": "18.55",
+      "SoldOut": false
+    }
+  ]
+}
