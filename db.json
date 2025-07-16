@@ -21,6 +21,20 @@
       "image": "https://prickleplants.co.uk/cdn/shop/articles/aloe_vera_3.jpg?v=1726489257",
       "price": "18.55",
       "SoldOut": false
+    },
+    {
+      "id": "f656",
+      "name": "Cactus",
+      "image": "https://i.etsystatic.com/8001549/r/il/ea8aac/3251603922/il_fullxfull.3251603922_7lpp.jpg",
+      "price": "12.15",
+      "SoldOut": false
+    },
+    {
+      "id": "1147",
+      "name": "Hibiscus",
+      "image": "https://extension.umn.edu/sites/extension.umn.edu/files/hibiscus_7y0GBN.jpg",
+      "price": "18.00",
+      "SoldOut": false
     }
   ]
 }
